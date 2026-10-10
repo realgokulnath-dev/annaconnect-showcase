@@ -39,7 +39,7 @@ AnnaConnect only connects people. It does not handle food, money or delivery. Do
 
 | Landing page | Donor: post surplus food |
 |---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Donor form](docs/screenshots/donor-form.png) |
+| ![Landing](Screenshot (18).png) | ![Donor form](docs/screenshots/donor-form.png) |
 
 | Receiver: nearby listings | Admin / impact dashboard |
 |---|---|
