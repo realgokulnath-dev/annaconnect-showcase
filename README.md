@@ -36,18 +36,7 @@ AnnaConnect only connects people. It does not handle food, money or delivery. Do
 - Offline drafts for listings on poor networks
 
 ## Screenshots
-
-| Landing page | Donor: post surplus food |
-|---|---|
-| ![Landing](Screenshot (18).png) | ![Donor form](docs/screenshots/donor-form.png) |
-
-| Receiver: nearby listings | Admin / impact dashboard |
-|---|---|
-| ![Receiver feed](docs/screenshots/receiver-feed.png) | ![Admin](docs/screenshots/admin.png) |
-
-## Demo video
-
-[Watch the demo](PASTE-YOUR-VIDEO-LINK-HERE)
+- See the screenshots in the docs 
 
 ## Tech stack
 
@@ -94,7 +83,7 @@ The source code is kept in a private repository. If you are a recruiter, intervi
 
 ## Author
 
-**YOUR NAME**
-Information Technology student | Coimbatore
-LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/gokulnath01)
+**Gokul Nath**
+Final Year - BTech Information Technology student | Coimbatore
+LinkedIn: (https://www.linkedin.com/in/gokulnath01)
 Email: gokulsaravanan034@gmail.com
